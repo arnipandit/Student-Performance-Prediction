@@ -4,8 +4,11 @@ In this project, I explored the influence of various socio-demographic and acade
 
 # Objectives
 Perform exploratory data analysis (EDA) on student performance data.
+
 Visualize trends and relationships using Seaborn and Matplotlib.
+
 Identify key variables that impact academic results.
+
 Build and evaluate classification models for performance prediction.
 
 # Tools & Technologies
