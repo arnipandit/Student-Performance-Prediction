@@ -1,8 +1,8 @@
-📊 Student Performance Analysis Using Data Science 🎓
+# 📊 Student Performance Analysis Using Data Science 🎓
 
 In this project, I explored the influence of various socio-demographic and academic factors on students’ performance using a publicly available dataset. Leveraging tools such as Python, Pandas, Seaborn, and Matplotlib, I performed extensive exploratory data analysis (EDA), visualized key insights, and built predictive models to better understand what drives academic success.
 
-#Objectives
+# Objectives
 Perform exploratory data analysis (EDA) on student performance data.
 Visualize trends and relationships using Seaborn and Matplotlib.
 Identify key variables that impact academic results.
